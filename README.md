@@ -18,7 +18,7 @@ The bot allows moderators to increase or decrease participants' reputation, trac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/reputation-bot.git
+   git clone https://github.com/kmdshi/reputation-bot.git
 2.  Install dependencies:
 ```pip install -r requirements.txt```\
 3. Configure the bot token in the config.py file.\
